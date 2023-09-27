@@ -2,6 +2,8 @@
 
 <span class="badge-buymeacoffee"><a href="https://ko-fi.com/live4life" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span> &nbsp;&nbsp; <span class="badge-patreon"><a href="https://patreon.com/live4life" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
+**This light-weight sound library** is just a copy of another repository, where several sound folders have been deleted. It is here just to test quickly the [Live 4 Life project](https://github.com/Xon77/Live4Life), and also for Windows and Linux users, beacause loading lots of sound buffers on these specific is very slow. Do not ask me why? I have no idea.
+
 **This sound library**, which is in development to work specifically with the spatial sound performance tool [Live 4 Life](https://github.com/Xon77/Live4Life), will be the basis for spatial workshops and my personal and collaborative open source creations. It **is a first try to adapt, sort, clean and fit this collection for the buffer module of the performance tool [Live 4 Life](https://github.com/Xon77/Live4Life) to get a default minimum sound folder.** Other sound collections and categories will be added in the future in order to be able to play with different sound sources and associations.
 
 Currently, it gathers:
